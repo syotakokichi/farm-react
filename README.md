@@ -1,10 +1,9 @@
-## 概要
 FARMスタックを用いたTodoアプリを作成しました。<br>
 こちらはフロントエンドのコードです。
 
 ### FARMスタックとは
-FA：FastAPI（Python）
-R：React
+FA：FastAPI（Python）<br>
+R：React<br>
 M：MongoDB
 
 ### 参照
